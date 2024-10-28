@@ -15,5 +15,14 @@ De asemenea prin aceste linkuri se pot accesa si sectiuni din pagina curenta sau
 
 1. linkuri referentiale
 
-#### linkuri clasice
+#### Linkuri clasice
 **Variante:** [google](https://www.google.com/)
+#### Linkuri referentiate
+Iata un [link][link1] catre google
+
+[link1]:https://www.google.com/
+
+Varianta prescurtata a linkurilor referentiale:
+ Iata un link [important] catre google.
+
+[Important]:https://www.google.com/
