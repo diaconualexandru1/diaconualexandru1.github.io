@@ -26,3 +26,8 @@ Varianta prescurtata a linkurilor referentiale:
  Iata un link [important] catre google.
 
 [Important]:https://www.google.com/
+
+**Cuprins**
+
+[Avansate](avansate.md)
+
